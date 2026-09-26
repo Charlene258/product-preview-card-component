@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot-Product Preview Card.png)
+![](/Screenshot-Product Preview Card.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Charlene258/product-preview-card-component.git)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
